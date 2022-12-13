@@ -19,7 +19,7 @@ public class JoinGame : MonoBehaviour
     private bool btn2isempty = true;
     private bool btn3isempty = true;
     private bool btn4isempty = true;
-    private int x=1;//x is number of room we want to enter
+    private int x=0;//x is number of room we want to enter
     void Start()
     {
         bool isExistsRoom = false;
